@@ -1,0 +1,14 @@
+C:\Users\Mohit Techtorium\source\repos\Week2_projectbravo\bin\Debug\Week2_projectbravo.exe.config
+C:\Users\Mohit Techtorium\source\repos\Week2_projectbravo\bin\Debug\Week2_projectbravo.exe
+C:\Users\Mohit Techtorium\source\repos\Week2_projectbravo\bin\Debug\Week2_projectbravo.pdb
+C:\Users\Mohit Techtorium\source\repos\Week2_projectbravo\obj\Debug\Week2_projectbravo.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\source\repos\Week2_projectbravo\obj\Debug\Week2_projectbravo.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\source\repos\Week2_projectbravo\obj\Debug\Week2_projectbravo.exe
+C:\Users\Mohit Techtorium\source\repos\Week2_projectbravo\obj\Debug\Week2_projectbravo.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week2_projectbravo\bin\Debug\Week2_projectbravo.exe.config
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week2_projectbravo\bin\Debug\Week2_projectbravo.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week2_projectbravo\bin\Debug\Week2_projectbravo.pdb
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week2_projectbravo\obj\Debug\Week2_projectbravo.csprojAssemblyReference.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week2_projectbravo\obj\Debug\Week2_projectbravo.csproj.CoreCompileInputs.cache
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week2_projectbravo\obj\Debug\Week2_projectbravo.exe
+C:\Users\Mohit Techtorium\OneDrive - techtorium.ac.nz\Documents\PP1\term1_projects\Week2_projectbravo\obj\Debug\Week2_projectbravo.pdb
